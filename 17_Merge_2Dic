@@ -1,0 +1,6 @@
+#17. merge 2 dict
+
+dict1={"name": "alice","age":25}
+dict2={"name":"ammu","occupation":"se","hobbies":["reading","writing","coding"]}
+dict1.update(dict2)
+print(dict1)
